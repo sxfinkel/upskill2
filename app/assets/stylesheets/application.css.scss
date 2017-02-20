@@ -16,11 +16,14 @@
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
 
+//typography styles
+
 h1, h2, h3 {
   font-family: 'Open Sans', sans-serif;
   
 }
-.navbar {
+//background gradient
+.navbar, .home-callout {
    /* Gradient provided by @_ighosh at uiGradients.com */
   
 
@@ -30,6 +33,7 @@ background: linear-gradient(to left, #4CA1AF , #C4E0E5); /* W3C, IE 10+/ Edge, F
         
       
 }
+//Nav Styles
 .navbar{
     border: none;
 }   

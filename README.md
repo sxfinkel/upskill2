@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+git@github.com:sxfinkel/upskill2.git
 
-Things you may want to cover:
+# README
+[Upskill](http://upskillcourses.com) Software-as-a-Service Ruby on Rails App
 
-* Ruby version
+#run
+Type rails s -b $IP -p $PORT
+bundle exec rails server -b $IP -p $PORT
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+c9 app/controllers/pages_controler.rb use c9 to open file

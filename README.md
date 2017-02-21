@@ -10,3 +10,7 @@ Type rails s -b $IP -p $PORT
 bundle exec rails server -b $IP -p $PORT
 
 c9 app/controllers/pages_controler.rb use c9 to open file
+
+#lesson 37 route prefixes
+http://upskillcourses.com/courses/119763/lectures/1747022
+2/19/2017

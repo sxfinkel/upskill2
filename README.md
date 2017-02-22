@@ -16,5 +16,6 @@ http://upskillcourses.com/courses/119763/lectures/1747022
 2/19/2017
 
 #2/21/17
-form validations - lesson 60
-lesson 62
+form validati
+lesson 66 custom URL
+lesson 69 cleaning up the routes

@@ -11,6 +11,12 @@ Type rails s -b $IP -p $PORT
 #git workflow tips
 http://upskillcourses.com/courses/119763/lectures/1747028
 
+#console stuff
+rails console
+> Hirb.enable
+> Contact.all
+
+
 c9 app/controllers/pages_controler.rb use c9 to open file
 
 #lesson 37 route prefixes

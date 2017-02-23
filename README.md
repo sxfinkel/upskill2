@@ -20,3 +20,7 @@ form validati
 lesson 66 custom URL
 lesson 69 cleaning up the routes
 lesson 76 heroku for production
+
+#sendgrid info
+
+https://github.com/sendgrid/sendgrid-ruby/blob/master/examples/helpers/mail/example.rb#L21

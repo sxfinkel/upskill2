@@ -7,7 +7,9 @@ git@github.com:sxfinkel/upskill2.git
 
 #run
 Type rails s -b $IP -p $PORT
-bundle exec rails server -b $IP -p $PORT
+
+#git workflow tips
+http://upskillcourses.com/courses/119763/lectures/1747028
 
 c9 app/controllers/pages_controler.rb use c9 to open file
 

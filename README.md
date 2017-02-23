@@ -28,6 +28,7 @@ form validati
 lesson 66 custom URL
 lesson 69 cleaning up the routes
 lesson 76 heroku for production
+lesson 78 - add mailgun stuff
 
 #sendgrid info
 

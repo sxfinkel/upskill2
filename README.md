@@ -33,3 +33,8 @@ lesson 78 - add mailgun stuff
 #sendgrid info
 
 https://github.com/sendgrid/sendgrid-ruby/blob/master/examples/helpers/mail/example.rb#L21
+
+
+#heroku
+https://dashboard.heroku.com/apps/ijazz
+login susan.finkel - outlook
